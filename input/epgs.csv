@@ -1,0 +1,3 @@
+epg_name,app_profile,tenant
+VLAN10-EPG,AP_PROD,TENANT_PROD
+VLAN20-EPG,AP_MGMT,TENANT_MGMT
