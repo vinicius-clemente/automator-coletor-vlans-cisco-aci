@@ -1,4 +1,3 @@
-apic_config.py
 output/*.csv
 output/*.txt
 *.log
